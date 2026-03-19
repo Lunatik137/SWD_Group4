@@ -12,4 +12,8 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SWD_Group4.DataAccess\SWD_Group4.DataAccess.csproj" />
+  </ItemGroup>
+
 </Project>
